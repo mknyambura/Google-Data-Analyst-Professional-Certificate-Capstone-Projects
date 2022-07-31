@@ -1,1 +1,1 @@
-# Google-Data-Analyst-Professional-Certificate-Capstone-Projects
+# Google Data Analyst Professional Certificate Capstone Projects
